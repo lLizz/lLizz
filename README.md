@@ -1,7 +1,9 @@
 ## Hi, I'm lLizz
 
 🔭 I’m currently studying Applied informatics </br>
-🌱 I’m currently learning everything </br>
+🌱 I’m currently learning everything. HTML, CSS, JavaScript, Python, C </br>
+<!--📺 I enjoy watching anime, books and lots of horror movies in my free time.-->
+<!--🎮 I love playing video games, especially RPGs and strategy games.")-->
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@lLizz/30-nites-of-code)  
